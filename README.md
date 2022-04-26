@@ -8,7 +8,7 @@ MyTraderAPI is API layer written in JAVA Spring Boot
 MyTraderStockSignals is algorithm layer written in Python.
 
 In DB side, PG/SQL is used.
-Firebase is used for authentication & authorisation.
+Firebase is used for authentication & authorization.
 
 Whole services deployed to Heroku cloud environment. 
 
