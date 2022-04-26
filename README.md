@@ -12,6 +12,8 @@ Firebase is used for authentication & authorization.
 
 Whole services deployed to Heroku cloud environment. 
 
+![image](https://user-images.githubusercontent.com/46599537/165378341-c4322a21-c100-458b-a922-30c177b2d334.png)
+
 
 ![image](https://user-images.githubusercontent.com/46599537/165374567-4a46b478-f5a6-4614-9e23-180366fa5c70.png)
 
